@@ -19,8 +19,8 @@ public class spartanTestWithParameters {
 
     @BeforeAll
     public static void init() {
-        String baseUrl = "http://44.195.19.167:8000";
-        baseURI = "http://44.195.19.167:8000";
+        String baseUrl = "http://100.25.141.59:8000";
+        baseURI = "http://100.25.141.59:8000";
         ;
 
     }

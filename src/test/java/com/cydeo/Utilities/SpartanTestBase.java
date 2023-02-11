@@ -9,10 +9,10 @@ public class SpartanTestBase {
 
     @BeforeAll
     public static void init() {
-        String baseUrl = "http://18.207.197.38:8000";
-        baseURI = "http://18.207.197.38:8000";
+        String baseUrl = "http://100.25.141.59:8000";
+        baseURI = "http://100.25.141.59:8000";
 
-        String dbUrl = "jdbc:oracle:thin:@18.207.197.38:1521:xe";
+        String dbUrl = "jdbc:oracle:thin:@100.25.141.59:1521:xe";
         String dbUsername = "SP";
         String dbPassword = "SP";
 

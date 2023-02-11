@@ -16,7 +16,7 @@ public class Deneme {
 @DisplayName("serkan deneme")
     @Test
     public void test1() {
-String baseURI = "http://18.207.197.38:8000";
+String baseURI = "http://100.25.141.59:8000";
 
 
 

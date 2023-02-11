@@ -32,7 +32,7 @@ public class HamscrestMatchersApiTest {
                 accept(ContentType.JSON)
                 .and().pathParam("id",15)
         .when()
-                .get("http://18.207.197.38:8000/api/spartans/{id}")
+                .get("http://100.25.141.59:8000/api/spartans/{id}")
         .then()
                 .statusCode(200)
                 .and().assertThat()
