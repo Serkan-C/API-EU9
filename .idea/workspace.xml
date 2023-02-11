@@ -4,23 +4,68 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9182ba45-828d-483e-b0a5-2c3867497e02" name="Changes" comment="we start">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day1/SimpleGetRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day2/HrGetRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day2/SpartanGetRequests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day2/SpartanNEgativeGetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/ORDSApiTestWithParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/SpartanWithPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day3/spartanTestWithParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/CBTrainingApiWithJsonPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiTestWithPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiWithJsonPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/SpartanWithJsonPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/HRTestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/SpartanTestBase.java" afterDir="false" />
+    <list default="true" id="9182ba45-828d-483e-b0a5-2c3867497e02" name="Changes" comment="day4">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Credentials_forAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day10/FormulaOneXmlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day10/JsonSchemaValidationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day10/ResponseTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day10/SSLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day10/SpartanWithXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day10/allSpartansSchema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day10/govXmlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day10/spartanPostJsonSchema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/Deneme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/HamcrestMatchersIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/HamscrestMatchersApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/JSONtoJAVATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/ORDSHamcrestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/SpartanAPIvsDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day5/SpartanHamcrestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day6/ORDSPojoGetRequestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day6/SpartanPojoRequestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day7/PutAndPatchRequestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day7/SpartanPostRequestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day8/SpartanWithAuthTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/BookitTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/DBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/ExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/SpartanAuthTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/SpartanNewBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/day11/BookitParametrized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/day11/CsvFileSourceParametrizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/day11/CsvSourceParametrizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/day11/ExcelUtilPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/day11/MethodSourceParameterizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/day11/ParametrizedTestInJunit5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/day11/TestLifeCycleAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/day12/BookitSpecTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/day12/MockApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/day12/OldRestAssuredTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/day12/SpartanSpecTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/day12/SpartanSpecTestOriginal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pojo/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pojo/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pojo/Region.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pojo/Regions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pojo/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pojo/Spartan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/BookItQa3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/SingleSpartanSchema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Vytracktestdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/postalcode.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/searchSpartansSchema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/Day1/SimpleGetRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day1/SimpleGetRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/CBTrainingApiWithJsonPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/CBTrainingApiWithJsonPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiTestWithPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiTestWithPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiWithJsonPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiWithJsonPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/SpartanWithJsonPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Day4/SpartanWithJsonPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/SpartanTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/Utilities/SpartanTestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,88 +97,114 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nutzer/IdeaProjects/ProgramingLab/ProgramingLab/API-EU9/target&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;oracle&quot;,
+      &quot;postgresql&quot;
+    ]
   }
 }</component>
-  <component name="RunManager" selected="JUnit.ORDSApiTestWithPath.test1">
-    <configuration name="HrGetRequest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nutzer\IdeaProjects\ProgramingLab\ProgramingLab\API-EU9\target" />
+      <recent name="C:\Users\Nutzer\IdeaProjects\ProgramingLab\ProgramingLab\API-EU9\src\test\java\com\cydeo" />
+      <recent name="C:\Users\Nutzer\IdeaProjects\ProgramingLab\ProgramingLab\API-EU9\src\test\java\com\cydeo\Day10" />
+      <recent name="C:\Users\Nutzer\IdeaProjects\ProgramingLab\ProgramingLab\API-EU9\src\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nutzer\IdeaProjects\ProgramingLab\ProgramingLab\API-EU9\src\test\java\com\cydeo\Day10" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cydeo.Utilities" />
+      <recent name="com.cydeo.Day10" />
+      <recent name="com.cydeo" />
+      <recent name="com.cydeo.Day8" />
+      <recent name="com.cydeo.Day7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BookitSpecTest.test1">
+    <configuration name="BookitSpecTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API-EU9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.Day2.*" />
+          <option name="PATTERN" value="com.cydeo.day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day2" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day2.HrGetRequest" />
+      <option name="PACKAGE_NAME" value="com.cydeo.day12" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.day12.BookitSpecTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ORDSApiTestWithParameters.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookitSpecTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API-EU9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.Day3.*" />
+          <option name="PATTERN" value="com.cydeo.day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day3" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day3.ORDSApiTestWithParameters" />
+      <option name="PACKAGE_NAME" value="com.cydeo.day12" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.day12.BookitSpecTest" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ORDSApiTestWithPath.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SpartanSpecTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API-EU9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.Day4.*" />
+          <option name="PATTERN" value="com.cydeo.day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day4" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day4.ORDSApiTestWithPath" />
+      <option name="PACKAGE_NAME" value="com.cydeo.day12" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.day12.SpartanSpecTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpartanWithPath.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SpartanSpecTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API-EU9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.Day3.*" />
+          <option name="PATTERN" value="com.cydeo.day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day3" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day3.SpartanWithPath" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpartanWithPath.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API-EU9" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.Day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.Day3" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Day3.SpartanWithPath" />
+      <option name="PACKAGE_NAME" value="com.cydeo.day12" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.day12.SpartanSpecTest" />
       <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanSpecTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API-EU9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.day12" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.day12.SpartanSpecTest" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ORDSApiTestWithPath.test1" />
-        <item itemvalue="JUnit.HrGetRequest.test1" />
-        <item itemvalue="JUnit.SpartanWithPath.test2" />
-        <item itemvalue="JUnit.SpartanWithPath.test1" />
-        <item itemvalue="JUnit.ORDSApiTestWithParameters.test2" />
+        <item itemvalue="JUnit.BookitSpecTest.test1" />
+        <item itemvalue="JUnit.BookitSpecTest.test2" />
+        <item itemvalue="JUnit.SpartanSpecTest.test3" />
+        <item itemvalue="JUnit.SpartanSpecTest.test2" />
+        <item itemvalue="JUnit.SpartanSpecTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +235,29 @@
       <workItem from="1668462219184" duration="1451000" />
       <workItem from="1668541124396" duration="2944000" />
       <workItem from="1668592010280" duration="16298000" />
-      <workItem from="1668714315105" duration="2544000" />
+      <workItem from="1668714315105" duration="2579000" />
+      <workItem from="1668839623713" duration="10478000" />
+      <workItem from="1669203523019" duration="10838000" />
+      <workItem from="1669285687214" duration="7081000" />
+      <workItem from="1669396104214" duration="2160000" />
+      <workItem from="1669468245928" duration="5319000" />
+      <workItem from="1669492301530" duration="579000" />
+      <workItem from="1669550777341" duration="4074000" />
+      <workItem from="1669650737370" duration="5881000" />
+      <workItem from="1669733988198" duration="16981000" />
+      <workItem from="1669848695037" duration="9000" />
+      <workItem from="1670079870253" duration="2649000" />
+      <workItem from="1670166879262" duration="2255000" />
+      <workItem from="1670265199976" duration="1199000" />
+      <workItem from="1670339521718" duration="13380000" />
+      <workItem from="1670601755818" duration="14741000" />
+      <workItem from="1670786491887" duration="912000" />
+      <workItem from="1671032695237" duration="22000" />
+      <workItem from="1672252297768" duration="2106000" />
+      <workItem from="1672834834984" duration="593000" />
+      <workItem from="1673087579836" duration="1250000" />
+      <workItem from="1673367530960" duration="181000" />
+      <workItem from="1676033185339" duration="8247000" />
     </task>
     <task id="LOCAL-00001" summary="we start">
       <created>1668434955053</created>
@@ -173,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668434955053</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day4">
+      <created>1668727983825</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668727983825</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,7 +292,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="we start" />
-    <option name="LAST_COMMIT_MESSAGE" value="we start" />
+    <MESSAGE value="day4" />
+    <option name="LAST_COMMIT_MESSAGE" value="day4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -223,6 +324,89 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiWithJsonPath.java</url>
+          <line>17</line>
+          <properties class="com.cydeo.Day4.ORDSApiWithJsonPath" method="test1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cydeo/Day4/CBTrainingApiWithJsonPath.java</url>
+          <line>25</line>
+          <properties class="com.cydeo.Day4.CBTrainingApiWithJsonPath" method="test1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cydeo/Day6/ORDSPojoGetRequestTest.java</url>
+          <line>38</line>
+          <properties class="com.cydeo.Day6.ORDSPojoGetRequestTest" method="employeeGet">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cydeo/Day10/JsonSchemaValidationTest.java</url>
+          <line>58</line>
+          <properties class="com.cydeo.Day10.JsonSchemaValidationTest" method="postSpartanSchemaTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cydeo/Day10/SSLTest.java</url>
+          <line>9</line>
+          <properties class="com.cydeo.Day10.SSLTest" method="test1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cydeo/day11/BookitParametrized.java</url>
+          <line>24</line>
+          <properties class="com.cydeo.day11.BookitParametrized" method="bookItTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cydeo/day12/OldRestAssuredTest.java</url>
+          <line>14</line>
+          <properties class="com.cydeo.day12.OldRestAssuredTest" method="getAllSpartan">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cydeo/Day4/ORDSApiWithJsonPath.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cydeo/Day7/SpartanPostRequestDemo.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cydeo/Day8/SpartanWithAuthTests.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cydeo/day12/OldRestAssuredTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
